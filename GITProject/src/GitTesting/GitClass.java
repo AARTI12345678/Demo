@@ -14,7 +14,7 @@ public class GitClass {
 					//driver.close();
 			System.out.println("Success");
 			
-			System.out.println("Success");
+			System.out.println("Success1");
 				}
 
 			}
